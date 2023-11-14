@@ -1,3 +1,3 @@
 # Demo
 
-It is the first document of mine on the github
+It is the first document/file of mine on the github.
